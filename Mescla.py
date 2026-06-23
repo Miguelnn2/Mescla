@@ -1,4 +1,4 @@
-# Copyright (c) 2025 [Tu Nombre o Apodo]
+# Copyright (c) 2025 José Miguel Vargas Alvarez
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
