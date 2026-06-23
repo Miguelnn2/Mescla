@@ -1,0 +1,422 @@
+[
+{"user": "¿qué color es el aguacate?", "alma": "el aguacate es de color verde"},
+{"user": "¿de qué color es un aguacate?", "alma": "un aguacate tiene color verde oscuro"},
+{"user": "dime el color del aguacate", "alma": "el color del aguacate es verde"},
+{"user": "¿cómo es el color del aguacate?", "alma": "el aguacate presenta un color verde intenso"},
+{"user": "¿el aguacate es verde?", "alma": "sí el aguacate es de color verde"},
+
+{"user": "¿qué fruto da la mata?", "alma": "la mata da frutos verdes"},
+{"user": "¿qué produce la mata?", "alma": "la mata produce frutos de color verde"},
+{"user": "¿de la mata salen frutos?", "alma": "de la mata salen frutos verdes comestibles"},
+{"user": "¿la mata da frutos?", "alma": "sí la mata da frutos verdes y sabrosos"},
+
+{"user": "¿qué color es el aguacate de la mata?", "alma": "el aguacate de la mata es de color verde"},
+{"user": "¿de qué color es el aguacate que da la mata?", "alma": "el aguacate que da la mata tiene color verde"},
+{"user": "color del aguacate de la mata", "alma": "el color del aguacate de la mata es verde brillante"},
+
+{"user": "¿dónde compraste el caballo?", "alma": "compré el caballo en la feria del pueblo"},
+{"user": "¿dónde compraste el caballo?", "alma": "lo compré en el rancho de don José"},
+{"user": "¿dónde adquiriste el caballo?", "alma": "adquirí el caballo en la feria ganadera"},
+{"user": "sitio donde compraste el caballo", "alma": "el caballo fue comprado en la feria"},
+{"user": "¿en qué lugar compraste el caballo?", "alma": "compré el caballo en el mercado de animales"},
+{"user": "¿dónde conseguiste el caballo?", "alma": "conseguí el caballo en una subasta"},
+
+{"user": "¿quién vio la vaca?", "alma": "el granjero vio la vaca en el campo"},
+{"user": "¿quién vio la vaca?", "alma": "la vio el obrero del establo"},
+{"user": "¿quién observó la vaca?", "alma": "un niño observó la vaca pastando"},
+{"user": "persona que vio la vaca", "alma": "el vaquero vio la vaca cerca del río"},
+
+{"user": "¿cómo es un carro deportivo?", "alma": "un carro deportivo tiene estilo único y veloz"},
+{"user": "describe un carro deportivo", "alma": "el carro deportivo es rápido y con diseño aerodinámico"},
+{"user": "¿qué caracteriza a un carro deportivo?", "alma": "un carro deportivo destaca por su estilo elegante y motor potente"},
+{"user": "carro deportivo estilo", "alma": "el estilo de un carro deportivo es agresivo y moderno"},
+
+{"user": "¿qué hace el perro?", "alma": "el perro ladra fuerte y mueve la cola"},
+{"user": "¿cómo se comporta un perro?", "alma": "un perro generalmente ladra y corre alegre"},
+{"user": "acción típica de un perro", "alma": "el perro ladra cuando ve a un extraño"},
+{"user": "¿el perro ladra?", "alma": "sí el perro ladra para avisar"},
+
+{"user": "¿cómo hace el gato?", "alma": "el gato maúlla suavemente"},
+{"user": "sonido del gato", "alma": "el gato hace miau miau"},
+{"user": "¿qué sonido emite un gato?", "alma": "un gato emite un maullido característico"},
+
+{"user": "¿qué come el conejo?", "alma": "el conejo come zanahorias frescas"},
+{"user": "alimento del conejo", "alma": "el conejo se alimenta de verduras y hierba"},
+{"user": "¿qué le gusta comer al conejo?", "alma": "al conejo le gusta comer zanahorias y lechuga"},
+
+{"user": "¿dónde vive el pez?", "alma": "el pez vive en el agua dulce del río"},
+{"user": "hábitat del pez", "alma": "los peces habitan en mares y ríos"},
+{"user": "¿en qué lugar viven los peces?", "alma": "los peces viven en océanos lagos y ríos"},
+
+{"user": "¿para qué sirve un martillo?", "alma": "un martillo sirve para clavar puntillas"},
+{"user": "uso del martillo", "alma": "el martillo se usa para golpear y clavar objetos"},
+{"user": "función principal de un martillo", "alma": "la función del martillo es clavar y ajustar piezas"},
+
+{"user": "¿qué cocina el chef?", "alma": "el chef cocina platos deliciosos en el restaurante"},
+{"user": "labor del chef", "alma": "el chef prepara recetas gourmet con ingredientes frescos"},
+{"user": "¿qué hace un chef profesional?", "alma": "un chef profesional cocina comidas exquisitas y creativas"},
+
+{"user": "¿cómo está el clima hoy?", "alma": "el clima está soleado y agradable"},
+{"user": "estado del tiempo actual", "alma": "hoy hace sol con una temperatura cálida"},
+{"user": "¿qué tal el día?", "alma": "el día está soleado y perfecto para pasear"},
+
+{"user": "¿de qué color es el cielo?", "alma": "el cielo es de color azul claro"},
+{"user": "color habitual del cielo", "alma": "normalmente el cielo se ve azul durante el día"},
+{"user": "¿el cielo siempre es azul?", "alma": "el cielo es azul cuando no hay nubes"},
+
+{"user": "¿qué bebes por la mañana?", "alma": "por la mañana bebo café caliente"},
+{"user": "bebida matutina preferida", "alma": "me gusta tomar café recién hecho al despertar"},
+{"user": "¿qué tomas al desayunar?", "alma": "al desayunar tomo café con leche y tostadas"},
+
+{"user": "¿cómo se hace un pastel?", "alma": "un pastel se hace con harina huevos y azúcar"},
+{"user": "ingredientes para un pastel", "alma": "para hacer un pastel necesitas harina huevos mantequilla y azúcar"},
+{"user": "receta básica de pastel", "alma": "mezcla harina con huevos y azúcar y hornea la masa"},
+
+{"user": "¿qué lees en tu tiempo libre?", "alma": "en mi tiempo libre leo libros de ciencia ficción"},
+{"user": "pasatiempo de lectura", "alma": "me encanta leer novelas de misterio y fantasía"},
+{"user": "¿qué tipo de libros prefieres?", "alma": "prefiero los libros de aventuras y ciencia ficción"},
+
+{"user": "¿cómo se mueve el tren?", "alma": "el tren se mueve sobre rieles a gran velocidad"},
+{"user": "movimiento del tren", "alma": "el tren avanza por las vías ferroviarias"},
+{"user": "¿sobre qué anda el tren?", "alma": "el tren anda sobre rieles de acero"},
+
+{"user": "¿quién enseña en la escuela?", "alma": "el profesor enseña matemáticas en la escuela"},
+{"user": "trabajo del maestro", "alma": "el maestro enseña lecciones importantes a los alumnos"},
+{"user": "función del docente", "alma": "el docente imparte conocimientos y guía el aprendizaje"},
+
+{"user": "¿qué flor es roja?", "alma": "la rosa roja es un símbolo de amor"},
+{"user": "flor de color rojo", "alma": "la amapola es una flor de color rojo intenso"},
+{"user": "ejemplo de flor roja", "alma": "el clavel rojo es muy común en jardines"},
+
+{"user": "¿dónde guardas la ropa?", "alma": "guardo la ropa en el armario del dormitorio"},
+{"user": "lugar para la ropa", "alma": "la ropa se guarda en el clóset o en cajones"},
+{"user": "almacenaje de vestimenta", "alma": "la ropa limpia va en el armario ordenada"},
+
+{"user": "¿qué instrumento tocas?", "alma": "toco la guitarra acústica desde niño"},
+{"user": "instrumento musical preferido", "alma": "mi instrumento favorito es la guitarra eléctrica"},
+{"user": "¿sabes tocar algún instrumento?", "alma": "sí sé tocar la guitarra y un poco el piano"},
+
+{"user": "¿para qué sirve un lápiz?", "alma": "un lápiz sirve para escribir y dibujar"},
+{"user": "uso del lápiz", "alma": "el lápiz se utiliza para tomar notas y hacer bocetos"},
+{"user": "función del lápiz", "alma": "con un lápiz puedes escribir sobre papel"},
+
+{"user": "¿cómo se apaga un incendio?", "alma": "un incendio se apaga con agua o extintores"},
+{"user": "método para apagar fuego", "alma": "los bomberos apagan el fuego usando mangueras y espuma"},
+{"user": "¿quién apaga los incendios?", "alma": "los bomberos apagan los incendios con valentía"},
+
+{"user": "¿qué hay en la biblioteca?", "alma": "en la biblioteca hay muchos libros y silencio"},
+{"user": "contenido de una biblioteca", "alma": "una biblioteca contiene estanterías llenas de libros"},
+{"user": "¿qué encuentras en una biblioteca?", "alma": "encuentras libros revistas y computadoras"},
+
+{"user": "¿cómo se llama el hijo del gato?", "alma": "el hijo del gato se llama gatito"},
+{"user": "cría del gato", "alma": "la cría del gato es un gatito pequeño y tierno"},
+{"user": "nombre de la cría del felino", "alma": "un gato bebé se llama gatito"},
+
+{"user": "¿qué se siente al volar?", "alma": "volar produce una sensación de libertad increíble"},
+{"user": "experiencia de volar", "alma": "al volar sientes el viento y ves todo desde arriba"},
+{"user": "sensación al viajar en avión", "alma": "volar en avión es emocionante y a veces da vértigo"},
+
+{"user": "¿dónde se pone el sol?", "alma": "el sol se pone en el horizonte al atardecer"},
+{"user": "puesta de sol", "alma": "el atardecer pinta el cielo de naranja cuando el sol se oculta"},
+{"user": "¿hacia dónde se oculta el sol?", "alma": "el sol se oculta por el oeste cada tarde"},
+
+{"user": "¿quién construye casas?", "alma": "los albañiles construyen casas con ladrillos y cemento"},
+{"user": "profesión de la construcción", "alma": "los arquitectos diseñan y los obreros construyen casas"},
+{"user": "¿quiénes edifican viviendas?", "alma": "las viviendas son edificadas por equipos de construcción"},
+
+{"user": "¿cómo se prepara un té?", "alma": "el té se prepara con agua caliente y hojas secas"},
+{"user": "preparación del té", "alma": "para hacer té necesitas hervir agua y añadir la infusión"},
+{"user": "receta de té caliente", "alma": "pon agua a calentar y agrega una bolsita de té"},
+
+{"user": "¿qué transporta un camión?", "alma": "un camión transporta mercancías pesadas por carretera"},
+{"user": "carga de un camión", "alma": "los camiones llevan alimentos materiales y combustibles"},
+{"user": "función del transporte pesado", "alma": "un camión sirve para mover grandes cargas entre ciudades"},
+
+{"user": "¿de qué está hecho el vidrio?", "alma": "el vidrio está hecho de arena y otros minerales"},
+{"user": "composición del vidrio", "alma": "el vidrio se fabrica fundiendo arena a altas temperaturas"},
+{"user": "material del vidrio", "alma": "principalmente el vidrio proviene de la sílice"},
+
+{"user": "¿quién cuida a los enfermos?", "alma": "los médicos y enfermeras cuidan a los enfermos en el hospital"},
+{"user": "personal sanitario", "alma": "las enfermeras atienden a los pacientes con dedicación"},
+{"user": "profesión de la salud", "alma": "los doctores curan y las enfermeras cuidan a los enfermos"},
+
+{"user": "¿por qué llueve?", "alma": "llueve porque las nubes se condensan y caen gotas de agua"},
+{"user": "causa de la lluvia", "alma": "la lluvia ocurre cuando el vapor de agua se enfría en la atmósfera"},
+{"user": "¿qué provoca la lluvia?", "alma": "la lluvia es parte del ciclo natural del agua"},
+
+{"user": "¿cómo se llama el hermano de mi padre?", "alma": "el hermano de tu padre es tu tío"},
+{"user": "parentesco del hermano del padre", "alma": "el tío es el hermano de tu papá"},
+{"user": "¿quién es el hermano de papá?", "alma": "el hermano de papá es tu tío paterno"},
+
+{"user": "¿qué animal pone huevos?", "alma": "la gallina pone huevos todos los días"},
+{"user": "animal ovíparo común", "alma": "las aves como la gallina ponen huevos"},
+{"user": "productor de huevos", "alma": "la gallina es conocida por poner huevos frescos"},
+
+{"user": "¿cómo se enciende una fogata?", "alma": "una fogata se enciende con leña seca y un fósforo"},
+{"user": "método para encender fuego", "alma": "coloca ramitas y papel luego prende con cuidado"},
+{"user": "pasos para hacer una fogata", "alma": "amontona leña y usa un encendedor para iniciar el fuego"},
+
+{"user": "¿qué tocas en la radio?", "alma": "en la radio tocan música variada y noticias"},
+{"user": "programación radial", "alma": "la radio emite canciones entrevistas y boletines informativos"},
+{"user": "contenido de la radio", "alma": "puedes escuchar música y programas en vivo"},
+
+{"user": "¿dónde crecen las setas?", "alma": "las setas crecen en bosques húmedos y sombríos"},
+{"user": "hábitat de las setas", "alma": "las setas aparecen en suelos con mucha humedad"},
+{"user": "lugar donde hay hongos", "alma": "los hongos y setas crecen en el bosque tras la lluvia"},
+
+{"user": "¿quién inventó la bombilla?", "alma": "la bombilla fue inventada por Thomas Edison"},
+{"user": "inventor de la luz eléctrica", "alma": "Edison patentó la bombilla incandescente"},
+{"user": "creador de la bombilla", "alma": "Thomas Edison es reconocido por crear la bombilla"},
+
+{"user": "¿cómo se dice casa en inglés?", "alma": "casa en inglés se dice house"},
+{"user": "traducción de casa al inglés", "alma": "la palabra house significa casa"},
+{"user": "casa en idioma inglés", "alma": "house es la traducción correcta"},
+
+{"user": "¿qué deporte usa raqueta?", "alma": "el tenis usa raqueta y pelota amarilla"},
+{"user": "deporte de raqueta", "alma": "el bádminton también se juega con raqueta"},
+{"user": "juego con raqueta", "alma": "el tenis es un deporte que requiere raqueta"},
+
+{"user": "¿de qué color es la nieve?", "alma": "la nieve es de color blanco y brillante"},
+{"user": "color de la nieve", "alma": "la nieve fresca tiene un color blanco puro"},
+{"user": "apariencia de la nieve", "alma": "la nieve es blanca y fría al tacto"},
+
+{"user": "¿cómo se conserva la carne?", "alma": "la carne se conserva en el congelador o con sal"},
+{"user": "método de conservación de carne", "alma": "puedes refrigerar la carne o curarla con salmuera"},
+{"user": "conservación de alimentos cárnicos", "alma": "la carne se mantiene fresca en frío o seca"},
+
+{"user": "¿dónde venden pescado?", "alma": "el pescado se vende en la pescadería del mercado"},
+{"user": "lugar de compra de pescado", "alma": "puedes comprar pescado fresco en la lonja"},
+{"user": "comercio de productos marinos", "alma": "en la pescadería encuentras variedad de pescados"},
+
+{"user": "¿quién escribe las noticias?", "alma": "los periodistas escriben las noticias para informar"},
+{"user": "profesión del reportero", "alma": "el reportero redacta las noticias del día"},
+{"user": "autor de las noticias", "alma": "las noticias son escritas por periodistas y corresponsales"},
+
+{"user": "¿cómo se llama el miedo a las alturas?", "alma": "el miedo a las alturas se llama acrofobia"},
+{"user": "nombre de la fobia a las alturas", "alma": "la acrofobia es el temor intenso a las alturas"},
+{"user": "trastorno de miedo a lugares elevados", "alma": "quien sufre acrofobia evita subir a lugares altos"},
+
+{"user": "¿qué pintó Picasso?", "alma": "Picasso pintó el Guernica y muchas obras maestras"},
+{"user": "obra famosa de Picasso", "alma": "Picasso es conocido por el cuadro Guernica"},
+{"user": "creación artística de Picasso", "alma": "el Guernica es una de las pinturas más famosas de Picasso"},
+
+{"user": "¿cómo se enciende un ordenador?", "alma": "enciende el ordenador pulsando el botón de encendido"},
+{"user": "arranque del PC", "alma": "para encender el ordenador presiona el botón power"},
+{"user": "iniciar una computadora", "alma": "solo debes pulsar el botón de inicio del ordenador"},
+
+{"user": "¿de qué país es la torre Eiffel?", "alma": "la torre Eiffel está en Francia"},
+{"user": "ubicación de la torre Eiffel", "alma": "la torre Eiffel es un monumento francés en París"},
+{"user": "país de la torre Eiffel", "alma": "Francia es el país donde se encuentra la torre Eiffel"},
+
+{"user": "¿quién escribió Don Quijote?", "alma": "Don Quijote fue escrito por Miguel de Cervantes"},
+{"user": "autor del Quijote", "alma": "Cervantes es el autor de Don Quijote de la Mancha"},
+{"user": "creador de Don Quijote", "alma": "Miguel de Cervantes escribió la novela Don Quijote"},
+
+{"user": "¿cómo se dice gracias en francés?", "alma": "gracias en francés se dice merci"},
+{"user": "traducción de gracias al francés", "alma": "merci es la forma de decir gracias en francés"},
+{"user": "palabra francesa para agradecer", "alma": "en francés se agradece diciendo merci"},
+
+{"user": "¿qué animal es el rey de la selva?", "alma": "el león es considerado el rey de la selva"},
+{"user": "rey de los animales", "alma": "el león es llamado el rey de la selva por su fuerza"},
+{"user": "animal más poderoso de la selva", "alma": "el león es el rey indiscutible de la selva"},
+
+{"user": "¿para qué sirve un termómetro?", "alma": "un termómetro sirve para medir la temperatura"},
+{"user": "función del termómetro", "alma": "el termómetro mide la fiebre o el clima"},
+{"user": "uso del termómetro", "alma": "con un termómetro sabes si tienes calentura"},
+
+{"user": "¿dónde se planta el arroz?", "alma": "el arroz se planta en campos inundados"},
+{"user": "cultivo del arroz", "alma": "los arrozales son terrenos anegados donde crece el arroz"},
+{"user": "lugar de siembra del arroz", "alma": "el arroz se siembra en zonas pantanosas o inundadas"},
+
+{"user": "¿cómo se hace el pan?", "alma": "el pan se hace con harina agua levadura y sal"},
+{"user": "elaboración del pan", "alma": "mezcla harina con levadura y agua luego hornea"},
+{"user": "ingredientes básicos del pan", "alma": "necesitas harina levadura sal y agua para hacer pan"},
+
+{"user": "¿qué toca un baterista?", "alma": "un baterista toca la batería con baquetas"},
+{"user": "instrumento del baterista", "alma": "la batería es un conjunto de tambores y platillos"},
+{"user": "músico de percusión", "alma": "el baterista marca el ritmo con tambores y platillos"},
+
+{"user": "¿de qué color es un limón maduro?", "alma": "un limón maduro es de color amarillo"},
+{"user": "color del limón", "alma": "el limón cuando madura se vuelve amarillo intenso"},
+{"user": "apariencia del limón", "alma": "el limón maduro tiene cáscara amarilla"},
+
+{"user": "¿dónde vive un esquimal?", "alma": "un esquimal vive en un iglú en zonas polares"},
+{"user": "vivienda esquimal", "alma": "los esquimales habitan en iglús hechos de hielo"},
+{"user": "casa de los esquimales", "alma": "los iglús son las casas de los esquimales"},
+
+{"user": "¿quién gobierna un país?", "alma": "un presidente o primer ministro gobierna un país"},
+{"user": "máxima autoridad de una nación", "alma": "el presidente es quien dirige el gobierno"},
+{"user": "líder de un país", "alma": "el presidente gobierna con la ayuda de ministros"},
+
+{"user": "¿cómo se apaga una vela?", "alma": "una vela se apaga soplando suavemente"},
+{"user": "método para apagar vela", "alma": "sopla con cuidado y la llama de la vela se extinguirá"},
+{"user": "extinción de una vela", "alma": "puedes apagar la vela con un soplido o un apagavelas"},
+
+{"user": "¿qué hay en un museo?", "alma": "en un museo hay obras de arte y objetos históricos"},
+{"user": "contenido de un museo", "alma": "los museos exhiben pinturas esculturas y antigüedades"},
+{"user": "exposición de un museo", "alma": "un museo muestra arte y cultura al público"},
+
+{"user": "¿de qué material es un espejo?", "alma": "un espejo está hecho de vidrio y una capa plateada"},
+{"user": "composición de un espejo", "alma": "el espejo tiene vidrio y una lámina reflectante"},
+{"user": "fabricación de espejos", "alma": "los espejos se fabrican con vidrio y plata o aluminio"},
+
+{"user": "¿quién enseña a nadar?", "alma": "un instructor de natación enseña a nadar"},
+{"user": "profesor de natación", "alma": "el monitor de piscina enseña técnicas de nado"},
+{"user": "docente acuático", "alma": "un entrenador de natación enseña a flotar y nadar"},
+
+{"user": "¿cómo se llama el hijo de la vaca?", "alma": "el hijo de la vaca se llama ternero"},
+{"user": "cría de la vaca", "alma": "la vaca pare un ternero pequeño y manchado"},
+{"user": "nombre del becerro", "alma": "un ternero es la cría recién nacida de la vaca"},
+
+{"user": "¿para qué sirve un paraguas?", "alma": "un paraguas sirve para protegerse de la lluvia"},
+{"user": "utilidad del paraguas", "alma": "el paraguas te cubre cuando llueve"},
+{"user": "función del paraguas", "alma": "usas un paraguas para no mojarte bajo la lluvia"},
+
+{"user": "¿dónde duerme un oso?", "alma": "un oso duerme en una cueva durante el invierno"},
+{"user": "guarida del oso", "alma": "los osos hibernan en cuevas oscuras"},
+{"user": "lugar de descanso del oso", "alma": "en invierno el oso busca una cueva para dormir"},
+
+{"user": "¿qué corta un carpintero?", "alma": "un carpintero corta madera con una sierra"},
+{"user": "trabajo del carpintero", "alma": "el carpintero usa herramientas para cortar y tallar madera"},
+{"user": "labor de la carpintería", "alma": "cortar madera es una tarea básica del carpintero"},
+
+{"user": "¿cómo se dice agua en inglés?", "alma": "agua en inglés se dice water"},
+{"user": "traducción de agua", "alma": "water es la palabra inglesa para agua"},
+{"user": "agua en idioma inglés", "alma": "water significa agua"},
+
+{"user": "¿de qué color es la sangre?", "alma": "la sangre es de color rojo"},
+{"user": "color de la sangre humana", "alma": "la sangre tiene un color rojo intenso"},
+{"user": "tono de la sangre", "alma": "la sangre es roja debido a la hemoglobina"},
+
+{"user": "¿quién pilota un avión?", "alma": "el piloto es quien pilota un avión"},
+{"user": "profesional de la aviación", "alma": "un piloto comercial vuela aviones de pasajeros"},
+{"user": "conductor de aeronaves", "alma": "el piloto dirige el avión desde la cabina"},
+
+{"user": "¿qué se celebra en Navidad?", "alma": "en Navidad se celebra el nacimiento de Jesús"},
+{"user": "fiesta navideña", "alma": "la Navidad celebra el nacimiento de Cristo con regalos y cenas"},
+{"user": "motivo de la Navidad", "alma": "se celebra el nacimiento del niño Jesús en familia"},
+
+{"user": "¿cómo se hace una llamada?", "alma": "marcas el número en el teléfono y pulsas llamar"},
+{"user": "realizar una llamada telefónica", "alma": "descuelga el teléfono marca y espera a que contesten"},
+{"user": "procedimiento para llamar", "alma": "para llamar introduce el número y presiona el botón verde"},
+
+{"user": "¿dónde se compran medicinas?", "alma": "las medicinas se compran en la farmacia"},
+{"user": "lugar de venta de medicamentos", "alma": "en la farmacia despachan las recetas médicas"},
+{"user": "establecimiento farmacéutico", "alma": "la botica o farmacia vende medicinas"},
+
+{"user": "¿qué animal vuela?", "alma": "el águila vuela alto en el cielo"},
+{"user": "animal volador", "alma": "muchas aves como el halcón vuelan con destreza"},
+{"user": "especie aérea", "alma": "el cóndor es un ave que vuela a grandes altitudes"},
+
+{"user": "¿cómo se llama tu madre?", "alma": "mi madre se llama María"},
+{"user": "nombre de tu mamá", "alma": "el nombre de mi mamá es María"},
+{"user": "cómo se llama la madre", "alma": "ella se llama María y es muy cariñosa"},
+
+{"user": "¿para qué sirve un cuchillo?", "alma": "un cuchillo sirve para cortar alimentos y otros objetos"},
+{"user": "utilidad del cuchillo", "alma": "el cuchillo es una herramienta de corte básica"},
+{"user": "función de un cuchillo", "alma": "con un cuchillo puedes trocear verduras y carne"},
+
+{"user": "¿de qué está hecha una silla?", "alma": "una silla está hecha de madera o metal"},
+{"user": "material de una silla", "alma": "las sillas pueden ser de madera plástico o metal"},
+{"user": "composición de una silla", "alma": "generalmente las sillas son de madera con patas firmes"},
+
+{"user": "¿dónde hay arena?", "alma": "hay arena en la playa y en el desierto"},
+{"user": "lugares con arena", "alma": "la playa está llena de arena fina y dorada"},
+{"user": "presencia de arena", "alma": "la arena cubre el suelo del desierto y las costas"},
+
+{"user": "¿quién es el protagonista de Harry Potter?", "alma": "Harry Potter es el protagonista de la saga mágica"},
+{"user": "personaje principal de Harry Potter", "alma": "el niño mago Harry Potter es el héroe de la historia"},
+{"user": "nombre del mago famoso", "alma": "Harry Potter lucha contra Voldemort en los libros"},
+
+{"user": "¿cómo se llama la esposa del rey?", "alma": "la esposa del rey se llama reina"},
+{"user": "título de la cónyuge real", "alma": "la reina es la esposa del monarca"},
+{"user": "mujer del rey", "alma": "la reina consorte es la pareja del rey"},
+
+{"user": "¿qué comes en el almuerzo?", "alma": "en el almuerzo como arroz con pollo y ensalada"},
+{"user": "comida del mediodía", "alma": "suelo almorzar una sopa y un plato fuerte"},
+{"user": "menú del almuerzo", "alma": "almuerzo pescado con verduras al vapor"},
+
+{"user": "¿de qué color es la hierba?", "alma": "la hierba es de color verde"},
+{"user": "color de la hierba fresca", "alma": "la hierba verde cubre el jardín"},
+{"user": "tono de la vegetación", "alma": "la hierba tiene un verde natural muy vivo"},
+
+{"user": "¿dónde trabaja un médico?", "alma": "un médico trabaja en un hospital o clínica"},
+{"user": "lugar de trabajo del doctor", "alma": "los médicos atienden en consultorios y hospitales"},
+{"user": "sitio laboral del galeno", "alma": "el hospital es el centro de trabajo de muchos médicos"},
+
+{"user": "¿cómo se llama el miedo a la oscuridad?", "alma": "el miedo a la oscuridad se llama nictofobia"},
+{"user": "nombre de la fobia a la oscuridad", "alma": "la nictofobia es el temor irracional a la noche"},
+{"user": "trastorno de temor nocturno", "alma": "quien tiene nictofobia sufre al quedarse a oscuras"},
+
+{"user": "¿para qué sirve una linterna?", "alma": "una linterna sirve para alumbrar en la oscuridad"},
+{"user": "uso de la linterna", "alma": "la linterna emite luz cuando hay un apagón"},
+{"user": "función de una linterna", "alma": "alumbras el camino con una linterna de mano"},
+
+{"user": "¿quién ganó el último mundial de fútbol?", "alma": "Argentina ganó el último mundial de fútbol"},
+{"user": "campeón del mundial reciente", "alma": "la selección de Argentina se coronó campeona"},
+{"user": "último ganador de la copa del mundo", "alma": "Argentina levantó la copa en el mundial pasado"},
+
+{"user": "¿cómo se dice libro en alemán?", "alma": "libro en alemán se dice Buch"},
+{"user": "traducción de libro al alemán", "alma": "Buch significa libro en idioma alemán"},
+{"user": "palabra alemana para libro", "alma": "en alemán Buch es libro"},
+
+{"user": "¿qué animal tiene trompa?", "alma": "el elefante tiene una larga trompa"},
+{"user": "animal con probóscide", "alma": "la trompa del elefante le sirve para beber y agarrar"},
+{"user": "mamífero de trompa", "alma": "el elefante es famoso por su trompa larga y fuerte"},
+
+{"user": "¿de qué país es el sushi?", "alma": "el sushi es originario de Japón"},
+{"user": "origen del sushi", "alma": "Japón es la cuna del sushi tradicional"},
+{"user": "comida típica japonesa", "alma": "el sushi es un plato japonés a base de arroz y pescado"},
+
+{"user": "¿cómo se hace el café?", "alma": "el café se hace con granos molidos y agua caliente"},
+{"user": "preparación del café", "alma": "prepara café vertiendo agua caliente sobre el café molido"},
+{"user": "receta de café", "alma": "muele los granos y pásalos por la cafetera"},
+
+{"user": "¿dónde viven los pingüinos?", "alma": "los pingüinos viven en el polo sur y zonas frías"},
+{"user": "hábitat de los pingüinos", "alma": "los pingüinos habitan en la Antártida"},
+{"user": "región de los pingüinos", "alma": "los pingüinos son aves que viven en climas polares"},
+
+{"user": "¿quién inventó el teléfono?", "alma": "Alexander Graham Bell inventó el teléfono"},
+{"user": "inventor del teléfono", "alma": "Bell patentó el primer teléfono funcional"},
+{"user": "creador del aparato telefónico", "alma": "Graham Bell es el padre del teléfono moderno"},
+
+{"user": "¿qué hay en el espacio?", "alma": "en el espacio hay estrellas planetas y galaxias"},
+{"user": "componentes del universo", "alma": "el espacio contiene asteroides cometas y nebulosas"},
+{"user": "elementos cósmicos", "alma": "el espacio exterior está lleno de cuerpos celestes"},
+
+{"user": "¿cómo se llama el hijo del perro?", "alma": "el hijo del perro se llama cachorro"},
+{"user": "cría del perro", "alma": "un cachorro es un perro recién nacido"},
+{"user": "nombre del perrito", "alma": "los cachorros son las crías de los perros"},
+
+{"user": "¿para qué sirve un reloj?", "alma": "un reloj sirve para saber la hora"},
+{"user": "función del reloj", "alma": "el reloj marca el tiempo y las horas del día"},
+{"user": "utilidad de un reloj", "alma": "con un reloj consultas la hora exacta"},
+
+{"user": "¿de qué color es la leche?", "alma": "la leche es de color blanco"},
+{"user": "color de la leche", "alma": "la leche pura tiene un color blanco cremoso"},
+{"user": "apariencia de la leche", "alma": "la leche de vaca es blanca y nutritiva"},
+
+{"user": "¿dónde está el baño?", "alma": "el baño está al final del pasillo"},
+{"user": "ubicación del servicio", "alma": "el baño se encuentra a la derecha"},
+{"user": "lugar del aseo", "alma": "el baño está junto a la cocina"},
+
+{"user": "¿quién es el padre de Hamlet?", "alma": "el padre de Hamlet es el rey Hamlet asesinado"},
+{"user": "progenitor de Hamlet", "alma": "el espectro del rey Hamlet es su padre"},
+{"user": "papá de Hamlet", "alma": "Hamlet llora la muerte de su padre el rey"},
+
+{"user": "¿cómo se dice perro en italiano?", "alma": "perro en italiano se dice cane"},
+{"user": "traducción de perro al italiano", "alma": "cane es la palabra italiana para perro"},
+{"user": "vocablo italiano para perro", "alma": "en italiano cane significa perro"},
+
+{"user": "¿qué pintó Van Gogh?", "alma": "Van Gogh pintó La noche estrellada"},
+{"user": "obra de Van Gogh", "alma": "La noche estrellada es un famoso cuadro de Van Gogh"},
+{"user": "creación de Vincent Van Gogh", "alma": "Van Gogh creó obras como Los girasoles"},
+
+{"user": "¿de qué está hecho el papel?", "alma": "el papel está hecho de pulpa de madera"},
+{"user": "material del papel", "alma": "el papel se fabrica con fibras de celulosa de árboles"},
+{"user": "composición del papel", "alma": "la madera molida es la base para hacer papel"},
+
+{"user": "¿cómo se llama el hermano de mi madre?", "alma": "el hermano de tu madre es tu tío materno"},
+{"user": "parentesco materno", "alma": "tu tío es el hermano de tu mamá"},
+{"user": "familiar por parte de madre", "alma": "el tío materno es hermano de tu madre"}
+]
